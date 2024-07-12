@@ -1,0 +1,4 @@
+# Ignore specific folders
+HAL/
+Library/
+SPIN/
