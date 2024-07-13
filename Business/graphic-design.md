@@ -507,10 +507,6 @@ Influential figures in graphic design history:
    - Integration of neuroscience findings to create more effective and engaging designs
    - Use of brain-computer interfaces for design creation and evaluation
 
-3. <development>Quantum Computing in Design</development>
-   - Exploration of quantum algorithms for complex design optimization problems
-   - Development of new design tools leveraging quantum computing capabilities
-
 4. <development>Biodesign and Living Materials</development>
    - Integration of living organisms and biological processes in graphic design
    - Development of sustainable, biodegradable materials for print design

@@ -471,10 +471,6 @@ The Laws of Power find numerous applications in various business contexts:
    - Trend: Application of neuroscience insights to leadership and decision-making.
    - Impact: More sophisticated understanding of cognitive aspects of power and influence.
 
-7. Quantum Computing in Business:
-   - Trend: Potential disruption of cryptography and data processing capabilities.
-   - Impact: New forms of information power and cybersecurity challenges.
-
 8. Augmented and Virtual Reality in Business:
    - Trend: Increased use of AR/VR for training, collaboration, and customer engagement.
    - Impact: New platforms for exercising influence and creating immersive experiences.
@@ -490,10 +486,6 @@ The Laws of Power find numerous applications in various business contexts:
 11. Biometric Data in Business:
     - Trend: Increasing use of biometric data for security and personalization.
     - Impact: New privacy concerns and potential for biometric-based influence.
-
-12. Quantum Leadership:
-    - Trend: Application of quantum principles to leadership and organizational dynamics.
-    - Impact: More fluid and adaptive approaches to power and decision-making.
 
 13. Edge Computing and 5G:
     - Trend: Decentralization of computing power and ultra-fast connectivity.

@@ -531,10 +531,6 @@ As businesses and institutions continue to grapple with rapid technological adva
    - Leveraging neuroscientific insights to enhance creativity and decision-making in Design Thinking
    - Using brain-computer interfaces for more intuitive ideation and prototyping processes
 
-5. Quantum Computing in Design Thinking:
-   - Exploring the potential of quantum computing for complex problem-solving in Design Thinking
-   - Using quantum algorithms for generating and evaluating design alternatives
-
 6. Biometric Feedback in Empathy and Testing:
    - Incorporating biometric data (e.g., eye tracking, facial expression analysis) to enhance empathy and user testing phases
    - Developing more objective measures of user engagement and emotional responses

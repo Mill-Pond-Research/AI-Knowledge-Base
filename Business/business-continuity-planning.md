@@ -363,9 +363,6 @@ Leading research institutions and organizations in BCP:
 6. <trend>Sustainable and Regenerative BCP</trend>
    - Incorporating sustainability principles into BCP
    - Focus on not just recovering, but improving operations after disruptions
-
-7. <trend>Quantum Computing in Risk Modeling</trend>
-   - Potential use of quantum computing for complex risk simulations and scenario planning
    
 8. <trend>Blockchain for Supply Chain Resilience</trend>
    - Leveraging blockchain technology for transparent, secure, and resilient supply chain management
@@ -411,10 +408,6 @@ Leading research institutions and organizations in BCP:
 6. <direction>Neuroplasticity and Organizational Adaptability</direction>
    - Applying neuroscience insights to enhance organizational learning and adaptability
    - Developing training programs to boost collective resilience and flexibility
-
-7. <direction>Quantum Resilience</direction>
-   - Exploring the implications of quantum technologies on cybersecurity and data protection in BCP
-   - Developing quantum-resistant continuity strategies for the post-quantum era
 
 8. <direction>Resilience in the Face of Social and Political Instability</direction>
    - Studying the impact of social unrest, political instability, and polarization on business continuity

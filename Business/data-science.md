@@ -348,10 +348,6 @@ Influential figures in the development of Data Science:
    - Automating various aspects of the machine learning pipeline
    - Democratizing access to advanced analytics capabilities
 
-3. <trend>Quantum Machine Learning</trend>
-   - Leveraging quantum computing for machine learning algorithms
-   - Exploring quantum-inspired classical algorithms
-
 4. <trend>Ethical AI and Responsible Data Science</trend>
    - Developing frameworks for ethical AI development and deployment
    - Incorporating fairness, accountability, and transparency in data science practices

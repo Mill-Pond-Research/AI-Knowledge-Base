@@ -430,10 +430,6 @@ Influential figures and thought leaders in the development of Customer Experienc
 
    Example: A fashion retailer might offer a virtual styling service that recommends sustainable and ethically produced clothing options based on a customer's style preferences and values.
 
-10. <trend>Quantum Computing in CX</trend>
-    As quantum computing becomes more accessible, it will enable processing of vast amounts of data in real-time, revolutionizing areas like personalization, predictive analytics, and complex problem-solving in CX.
-
-    Example: A global logistics company might use quantum computing to optimize routing and delivery schedules in real-time, considering millions of variables to provide the best possible delivery experience for each customer.
 </emerging_trends>
 
 <future_implications>

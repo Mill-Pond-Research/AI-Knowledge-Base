@@ -440,10 +440,6 @@ Influential figures in the development of business communication:
    - Enhanced mobile communication capabilities for remote and field workers
    - IoT integration for more comprehensive and automated business communication
 
-9. Quantum Computing in Cryptography:
-   - Quantum-safe encryption for ultra-secure business communication
-   - Potential for quantum communication networks with unparalleled security
-
 10. Inclusive Communication Technologies:
     - Advanced language translation tools for real-time, seamless cross-lingual communication
     - Adaptive technologies to make business communication more accessible for individuals with disabilities

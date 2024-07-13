@@ -501,10 +501,6 @@ In today's rapidly evolving global landscape, understanding business is more rel
    - AR/VR applications in training, product design, and customer experiences.
    - Virtual collaboration and remote work enhancement through immersive technologies.
 
-6. Quantum Computing:
-   - Potential for solving complex business problems and optimizing processes.
-   - Applications in cryptography, financial modeling, and supply chain optimization.
-
 7. Hyper-Personalization:
    - Leveraging big data and AI for highly personalized products and services.
    - Shift towards segment-of-one marketing and customized user experiences.
@@ -594,10 +590,6 @@ In today's rapidly evolving global landscape, understanding business is more rel
 13. Neuroscience Applications in Business:
     - Exploring neuroscientific insights for leadership development and decision-making.
     - Investigating applications of neurotechnology in marketing and consumer behavior.
-
-14. Quantum Computing in Business Operations:
-    - Researching potential applications of quantum computing in optimization and simulation.
-    - Studying the implications of quantum technologies on cybersecurity and data protection.
 
 15. Space Economy and Extraterrestrial Resources:
     - Investigating business models and strategies for commercial space activities.

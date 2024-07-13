@@ -448,11 +448,6 @@ Institutions:
    - Personalized supply chains tailored to individual customer preferences
    - Case Study: Nike's customization options in manufacturing and supply chain
 
-9. Quantum Computing in Operations:
-   - Solving complex optimization problems in logistics and supply chain
-   - Enhancing cryptography for secure operational data
-   - Example: D-Wave's quantum computing solutions for logistics optimization
-
 10. Human-AI Collaboration:
     - Developing operational models that optimize human-AI interaction
     - Upskilling workforce to work alongside AI systems

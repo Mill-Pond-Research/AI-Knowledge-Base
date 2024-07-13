@@ -444,10 +444,6 @@ This example shows how agile methodologies can be adapted for non-software conte
    - Adaptation of agile methodologies for developing and managing IoT devices and edge computing systems
    - Integration of continuous deployment practices with IoT firmware updates
 
-3. Quantum Agile:
-   - Exploration of agile principles in quantum computing software development
-   - Adaptation of agile practices to handle the unique challenges of quantum algorithms and hardware constraints
-
 4. Sustainable Agile:
    - Integration of sustainability principles into agile practices
    - Development of agile frameworks that explicitly consider environmental impact and social responsibility
@@ -489,10 +485,6 @@ This example shows how agile methodologies can be adapted for non-software conte
 3. Cognitive Agile:
    - Integration of cognitive computing to enhance decision-making in agile processes
    - Development of AI systems that can autonomously manage certain aspects of agile projects
-
-4. Quantum-Inspired Agile Optimization:
-   - Application of quantum computing principles to optimize resource allocation and scheduling in agile projects
-   - Development of quantum-inspired algorithms for solving complex agile management problems
 
 5. Agile for Social Impact:
    - Adaptation of agile methodologies for social entrepreneurship and non-profit sectors

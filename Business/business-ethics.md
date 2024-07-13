@@ -522,10 +522,6 @@ Business ethics principles are applied across various industries:
    - Integration of ethical considerations into the early stages of product and service development
    - Development of tools and methodologies for ethical design thinking
 
-2. Quantum Computing and Ethics:
-   - Exploring ethical implications of quantum computing in areas like cryptography and data security
-   - Developing ethical frameworks for the use of quantum technologies in business
-
 3. Neuroethics in Business:
    - Addressing ethical concerns related to neurotechnology in the workplace
    - Exploring implications of cognitive enhancement and brain-computer interfaces

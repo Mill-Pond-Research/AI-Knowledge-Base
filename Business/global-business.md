@@ -422,9 +422,6 @@ Influential figures in the development of global business:
 2. <development>Space Commerce</development>
    The emergence of commercial space activities as a new frontier for global business, including satellite services and space tourism.
 
-3. <development>Quantum Computing in Global Finance</development>
-   The potential impact of quantum computing on international financial markets, cryptography, and risk management.
-
 4. <development>Neurotechnology in Cross-Cultural Communication</development>
    The possible use of brain-computer interfaces and neurotechnology to enhance cross-cultural understanding and communication in global business.
 

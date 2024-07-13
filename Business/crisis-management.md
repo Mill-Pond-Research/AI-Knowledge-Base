@@ -318,10 +318,6 @@ These frameworks and models provide structured approaches to understanding and i
 7. <development>Neuroscience in Crisis Decision-Making</development>
    Studies are incorporating neuroscience techniques to understand how stress and high-pressure situations affect decision-making during crises, leading to improved training methodologies for crisis managers.
 
-8. <development>Quantum Computing for Complex Crisis Modeling</development>
-   Early-stage research is investigating the potential of quantum computing to model and simulate highly complex crisis scenarios that are beyond the capabilities of classical computers.
-</recent_developments>
-
 ## 7. Applications and Real-World Examples
 
 <applications>

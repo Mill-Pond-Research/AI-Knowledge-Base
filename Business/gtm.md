@@ -395,9 +395,6 @@ A typical GTM strategy for a B2B SaaS company might include:
    - Highly targeted GTM strategies for specific micro-segments
    - Leveraging long-tail opportunities in niche markets
 
-8. Quantum Computing in Marketing:
-   - Potential use of quantum computing for complex market simulations
-   - Optimization of GTM strategies using quantum algorithms
 </future_directions>
 
 ## 10. Conclusion

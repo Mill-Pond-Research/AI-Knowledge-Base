@@ -350,8 +350,6 @@ The Business Model Canvas has been applied across various industries:
 
 4. Neuroscience-Informed Design: Applying insights from neuroscience to enhance the cognitive effectiveness of the BMC.
 
-5. Quantum Computing Applications: Exploring how quantum computing could revolutionize complex business model optimization.
-
 6. Adaptive Business Models: Developing frameworks for business models that can automatically adapt to changing market conditions.
 
 7. Biometric Feedback Integration: Using biometric data to gauge stakeholder reactions to business model elements in real-time.

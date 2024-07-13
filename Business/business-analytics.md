@@ -400,11 +400,6 @@ Influential figures in the development of Business Analytics:
    - Potential impact: Improved cross-functional collaboration, faster time-to-insight
    - Example: Cloud-based analytics platforms with built-in collaboration features
 
-6. <trend>Quantum Computing in Business Analytics</trend>
-   - Description: Leveraging quantum computers for complex optimization and simulation problems
-   - Potential impact: Solving previously intractable business problems, revolutionizing fields like financial modeling
-   - Example: Optimizing supply chain logistics using quantum algorithms
-
 7. <trend>Ethical AI and Responsible Analytics</trend>
    - Description: Incorporating ethical considerations and fairness into analytical models and processes
    - Potential impact: Increased trust in AI-driven decisions, mitigation of bias-related risks
@@ -439,7 +434,6 @@ Key takeaways from this comprehensive overview include:
 2. The importance of a structured approach to analytics, as exemplified by frameworks like CRISP-DM and BADIR
 3. The wide range of applications across various business functions, from marketing and finance to supply chain and human resources
 4. The ongoing challenges in data quality, skills development, and ethical considerations
-5. The exciting future directions, including augmented analytics, edge computing, and quantum analytics
 
 As we look to the future, Business Analytics is poised to play an even more central role in organizational success. The integration of AI and machine learning into analytics processes promises to democratize data-driven decision-making, enabling a broader range of employees to leverage analytical insights. Meanwhile, advancements in areas such as edge analytics and quantum computing have the potential to unlock new levels of performance and capability.
 
