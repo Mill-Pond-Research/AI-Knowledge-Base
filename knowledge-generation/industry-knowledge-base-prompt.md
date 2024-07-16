@@ -62,6 +62,8 @@ Please structure your response using the following sections:
     - Failures and lessons learned
     - Innovative business models
 
-Please provide detailed information for each section, using data, statistics, and examples where appropriate. Ensure that the information is up-to-date and relevant to the current state of the {{INDUSTRY}} industry.
+Please provide detailed information for each section, using data, statistics, and examples where appropriate. Ensure that the information is up-to-date and relevant to the current state of the industry.
 
-Your response should be comprehensive, well-structured, and written in a clear, professional tone suitable for a wide range of audiences interested in understanding the {{INDUSTRY}} industry.
+Your response should be comprehensive, well-structured, and written in a clear, professional tone suitable for a wide range of audiences interested in understanding the industry.
+
+Output using markdown formatting. Add additional formatting to allow an AI system to easily parse the documentation for relevant sections.
