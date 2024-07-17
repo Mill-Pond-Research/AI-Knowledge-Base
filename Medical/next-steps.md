@@ -1,0 +1,80 @@
+# 25 Common Medical Diagnoses in Ambulatory Practices
+
+Based on ICD-10 codes, here are 25 common medical diagnoses that healthcare providers frequently encounter in ambulatory practices:
+
+1. **Hypertension (High Blood Pressure)**
+   - A prevalent condition affecting blood pressure regulation
+
+2. **Type 2 Diabetes**
+   - A metabolic disorder characterized by high blood sugar levels
+
+3. **Hyperlipidemia (High Cholesterol)**
+   - Elevated levels of cholesterol and triglycerides in the blood
+
+4. **Obesity** ✓
+   - Excessive body weight, often associated with other health risks
+
+5. **Anemia**
+   - A deficiency of red blood cells or hemoglobin, leading to fatigue and weakness
+
+6. **Arthritis**
+   - Inflammation of joints causing pain and stiffness
+
+7. **Osteoporosis**
+   - A condition of weakened bones, increasing fracture risk
+
+8. **Cancer**
+   - Various types of malignant growths affecting different organs
+
+9. **Cardiovascular Disease**
+   - Disorders of the heart and blood vessels
+
+10. **Cerebrovascular Disease (Stroke)**
+    - Brain blood vessel damage leading to neurological deficits
+
+11. **Asthma**
+    - Chronic respiratory condition causing airway inflammation and breathing difficulties
+
+12. **Depression**
+    - A mood disorder affecting mental health and well-being
+
+13. **Chronic Obstructive Pulmonary Disease (COPD)**
+    - Lung conditions like chronic bronchitis and emphysema
+
+14. **Gastroesophageal Reflux Disease (GERD)**
+    - Acid reflux and heartburn
+
+15. **Thyroid Disorders**
+    - Abnormalities in thyroid hormone production and function
+
+16. **Urinary Tract Infections (UTIs)**
+    - Bacterial infections affecting the urinary system
+
+17. **Chronic Kidney Disease**
+    - Progressive loss of kidney function
+
+18. **Heart Failure**
+    - Impaired heart function leading to inadequate blood circulation
+
+19. **Chronic Liver Disease**
+    - Conditions like cirrhosis and hepatitis
+
+20. **Chronic Pain Syndromes**
+    - Persistent pain affecting daily life
+
+21. **Gastrointestinal Disorders**
+    - Including irritable bowel syndrome (IBS) and inflammatory bowel disease (IBD)
+
+22. **Allergies**
+    - Immune reactions to specific substances
+
+23. **Migraine**
+    - Recurrent severe headaches with associated symptoms
+
+24. **Anxiety Disorders**
+    - Mental health conditions causing excessive worry and fear
+
+25. **Skin Disorders**
+    - Such as eczema, psoriasis, and acne
+
+> Note: The prevalence of these conditions may vary based on different sources and practice settings. For personalized advice, consult a healthcare professional.

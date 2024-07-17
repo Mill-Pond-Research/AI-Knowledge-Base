@@ -79,7 +79,7 @@ Your task is to create an in-depth, well-structured document that serves as a de
 
 ### Length and Depth
 
-- Aim for a minimum of 5000 words on the business topic
+- Aim for a minimum of 10000 words on the business topic
 - Expand as necessary to cover the business topic comprehensively
 - Provide in-depth explanations and analysis of business concepts throughout
 - Balance breadth and depth to create a well-rounded business resource

@@ -1,0 +1,37 @@
+# List of Coding Languages and Frameworks for Comprehensive Knowledge Base Documentation
+
+1. Python ✓
+2. JavaScript ✓
+3. Java
+4. C++
+5. C#
+6. Ruby
+7. Go
+8. Rust
+9. Swift
+10. Kotlin
+11. TypeScript
+12. PHP
+13. Scala
+14. R
+15. MATLAB
+16. Dart
+17. Lua
+18. Haskell
+19. Elixir
+20. Clojure
+21. React (JavaScript library) ✓
+22. Angular (TypeScript-based framework)
+23. Vue.js (JavaScript framework)
+24. Django (Python web framework)
+25. Ruby on Rails (Ruby web framework)
+26. Spring Framework (Java framework)
+27. ASP.NET Core (C# web framework)
+28. TensorFlow (Machine Learning library)
+29. PyTorch (Machine Learning library)
+30. Node.js (JavaScript runtime)
+31. Express.js (Node.js web application framework)
+32. Flutter (Dart-based mobile app framework)
+33. Kubernetes (Container orchestration platform)
+34. Docker (Containerization platform)
+35. Pandas (Python data manipulation library)
