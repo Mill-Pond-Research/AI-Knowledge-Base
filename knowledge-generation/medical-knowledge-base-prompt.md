@@ -125,40 +125,31 @@ Your task is to create an in-depth, well-structured document that serves as a de
 - Provide references to seminal studies and meta-analyses
 - Add a curated list of continuing medical education resources
 
-## Style and Tone
-- Use clear, precise medical terminology
-- Maintain consistency in nomenclature and explanations
-- Progress from basic concepts to advanced topics
-- Include clinical pearls and evidence-based recommendations
-- Use case studies to illustrate complex concepts
+## Guidelines for Knowledge Base Creation
 
-## Length and Depth
-- Aim for comprehensive coverage of all aspects of the medical topic
-- Provide in-depth explanations with multiple examples for each concept
-- Include advanced topics and rare conditions for completeness
-- Ensure each section can stand alone as a reference while maintaining overall coherence
+### Style and Content
+- Maintain an academic, informative style with clear, precise language
+- Remain objective and neutral in presenting information
+- Progress from foundational knowledge to advanced concepts
+- Incorporate engaging elements (e.g., thought-provoking questions, hypothetical scenarios)
+- Aim for a minimum of 5000 words, expanding as necessary for comprehensive coverage
+- Provide in-depth explanations and analysis throughout
+- Balance breadth and depth to create a well-rounded resource
 
-## Accuracy and Sources
-- Use only peer-reviewed literature and reputable medical sources
-- Ensure all information is up-to-date with current clinical guidelines
-- Include levels of evidence when discussing treatment recommendations
-- Cite sources and provide links to original research where applicable
+### Accuracy and Sources
+- Use only reputable, authoritative sources
+- Ensure up-to-date and accurately represented information
+- Include relevant statistics, data points, and research findings
+- Cite primary sources whenever possible
+- Acknowledge conflicting viewpoints or interpretations when they exist
 
-## AI-Friendly Features
-- Use consistent tagging for key elements (e.g., `<symptom>`, `<treatment>`, `<guideline>`)
-- Implement a clear and consistent structure for easy parsing
-- Include machine-readable metadata (e.g., ICD-10 codes, MeSH terms)
-- Provide statistical data in clearly demarcated tables or charts
-- Include a structured summary at the end of each major section for quick AI reference
+### AI-Friendly Features
+- Use consistent tagging for key elements (e.g., `<definition>`, `<example>`, `<theory>`)
+- Create machine-readable metadata (e.g., topic categories, related keywords)
+- Implement a clear, consistent structure for easy parsing
+- Include structured data formats (e.g., JSON-LD) for key information
+- Provide numerical identifiers for sections and subsections
 
-## Accessibility and Inclusivity
-- Use inclusive language and diverse patient examples
-- Provide text alternatives for any visual content
-- Ensure color is not the only means of conveying information in diagrams or charts
-- Consider health literacy levels when explaining concepts
-
-## Version Control and Updates
-- Establish a process for regular reviews and updates to keep the content current
-- Maintain a changelog to track significant revisions
-- Include a "Last Updated" date at the beginning of the document
-- Provide information on how to access previous versions of the knowledge base
+### Output Format
+- Use Markdown formatting
+- Add additional formatting for easy AI parsing of relevant sections

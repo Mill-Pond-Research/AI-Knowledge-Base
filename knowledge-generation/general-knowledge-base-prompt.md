@@ -64,54 +64,36 @@ Your task is to create an in-depth, well-structured document that serves as a de
 - Include recommendations for additional resources and reading materials
 - Categorize references by subtopic or type (e.g., foundational works, recent studies)
 
-### Style and Tone
+## Guidelines for Knowledge Base Creation
 
-- Maintain an academic and informative style
-- Use clear, precise language
-- Remain objective and neutral when presenting information
-- Build from foundational knowledge to more advanced concepts
-- Incorporate engaging elements such as thought-provoking questions or hypothetical scenarios
-
-### Length and Depth
-
-- Aim for a minimum of 5000 words
-- Expand as necessary to cover the topic comprehensively
+### Style and Content
+- Maintain an academic, informative style with clear, precise language
+- Remain objective and neutral in presenting information
+- Progress from foundational knowledge to advanced concepts
+- Incorporate engaging elements (e.g., thought-provoking questions, hypothetical scenarios)
+- Aim for a minimum of 5000 words, expanding as necessary for comprehensive coverage
 - Provide in-depth explanations and analysis throughout
 - Balance breadth and depth to create a well-rounded resource
 
 ### Accuracy and Sources
-
 - Use only reputable, authoritative sources
-- Ensure all information is up-to-date and accurately represented
+- Ensure up-to-date and accurately represented information
 - Include relevant statistics, data points, and research findings
 - Cite primary sources whenever possible
 - Acknowledge conflicting viewpoints or interpretations when they exist
 
 ### AI-Friendly Features
-
 - Use consistent tagging for key elements (e.g., `<definition>`, `<example>`, `<theory>`)
 - Create machine-readable metadata (e.g., topic categories, related keywords)
-- Implement a clear and consistent structure for easy parsing
+- Implement a clear, consistent structure for easy parsing
 - Include structured data formats (e.g., JSON-LD) for key information
 - Provide numerical identifiers for sections and subsections
 
-### Multimedia and Visualization
-
-- Cite relevant images, generate diagrams or infographics to illustrate complex concepts
-- Use tables to present comparative information or datasets
-- Include links to video content or interactive resources when appropriate
-
-### Accessibility and Inclusivity
-
-- Use inclusive language and examples
-- Provide alternative text for all images and visual elements
-- Ensure the document is screen-reader friendly
-- Consider diverse perspectives and global contexts when discussing the topic
-
-### Version Control and Updates
-
-- Include a version number and last updated date
-- Establish a process for regular reviews and updates to keep the content current
+### Version Control
+- Include version number and last updated date
+- Establish a process for regular reviews and updates
 - Maintain a changelog to track significant revisions
 
-By following these enhanced guidelines, you will create a comprehensive, AI-friendly, and human-readable knowledge base that serves as an authoritative resource on the given topic.
+### Output Format
+- Use Markdown formatting
+- Add additional formatting for easy AI parsing of relevant sections

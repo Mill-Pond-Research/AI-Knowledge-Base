@@ -3,7 +3,7 @@ You are an expert in industry analysis and market research. Your task is to crea
 Please structure your response using the following sections:
 
 1. Industry Overview
-   - Definition and scope of the {{INDUSTRY}} industry
+   - Definition and scope of the industry
    - Historical background and evolution
    - Current market size and growth projections
 
@@ -62,8 +62,31 @@ Please structure your response using the following sections:
     - Failures and lessons learned
     - Innovative business models
 
-Please provide detailed information for each section, using data, statistics, and examples where appropriate. Ensure that the information is up-to-date and relevant to the current state of the industry.
+## Guidelines for Knowledge Base Creation
 
-Your response should be comprehensive, well-structured, and written in a clear, professional tone suitable for a wide range of audiences interested in understanding the industry.
+### Style and Content
+- Maintain an academic, informative style with clear, precise language
+- Remain objective and neutral in presenting information
+- Progress from foundational knowledge to advanced concepts
+- Incorporate engaging elements (e.g., thought-provoking questions, hypothetical scenarios)
+- Aim for a minimum of 5000 words, expanding as necessary for comprehensive coverage
+- Provide in-depth explanations and analysis throughout
+- Balance breadth and depth to create a well-rounded resource
 
-Output using markdown formatting. Add additional formatting to allow an AI system to easily parse the documentation for relevant sections.
+### Accuracy and Sources
+- Use only reputable, authoritative sources
+- Ensure up-to-date and accurately represented information
+- Include relevant statistics, data points, and research findings
+- Cite primary sources whenever possible
+- Acknowledge conflicting viewpoints or interpretations when they exist
+
+### AI-Friendly Features
+- Use consistent tagging for key elements (e.g., `<definition>`, `<example>`, `<theory>`)
+- Create machine-readable metadata (e.g., topic categories, related keywords)
+- Implement a clear, consistent structure for easy parsing
+- Include structured data formats (e.g., JSON-LD) for key information
+- Provide numerical identifiers for sections and subsections
+
+### Output Format
+- Use Markdown formatting
+- Add additional formatting for easy AI parsing of relevant sections
