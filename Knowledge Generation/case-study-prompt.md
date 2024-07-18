@@ -1,5 +1,3 @@
-Certainly! I'll regenerate and enhance the "case-study-prompt.md" based on the structure and depth of the other knowledge base prompts provided. Here's an improved and standardized version:
-
 # Case Study Knowledge Base Generation Prompt
 
 Generate a comprehensive case study knowledge base document on the following principle or concept: "{{primary_principle}}".
@@ -101,7 +99,7 @@ Your task is to create an in-depth, well-structured document that serves as a de
 
 ## Length and Depth
 - Aim for a minimum of 10,000 words to cover the topic comprehensively
-- Include at least 15-20 detailed case studies
+- Include at least 8-10 detailed case studies
 - Provide in-depth analysis and discussion for each case study
 - Balance breadth and depth to create a well-rounded resource
 
