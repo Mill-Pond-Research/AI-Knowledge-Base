@@ -152,4 +152,10 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 - Discuss the relationships between different elements of the image, such as how information is connected or flows from one section to another, highlighting any visual cues that indicate these relationships
 - Address any interactive elements that may be present in digital versions of the image, describing their functionality and purpose
 
-By meticulously following these enhanced guidelines, you will create a comprehensive, AI-friendly, and human-readable knowledge base entry that accurately represents, expands upon, and enriches ALL content of the original image, effectively translating visual information into a structured, detailed textual format. Remember to extract every piece of information, elaborate where possible, list unknown items, remove any ownership attribution or branding from the content, and strive for a document that serves as a standalone, authoritative resource on the topic presented in the image.
+### System Notes
+
+#### 1. Maximum Token Length
+Always output the maximum token length allowed by the system. Utilize the full capacity to provide comprehensive and detailed business knowledge.
+
+#### 2. Continuous Output
+Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.

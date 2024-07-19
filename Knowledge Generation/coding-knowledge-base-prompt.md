@@ -174,3 +174,14 @@ Your task is to create an in-depth, well-structured document that serves as a de
 - Include machine-readable metadata (e.g., language version, related technologies)
 - Provide code snippets in clearly demarcated blocks with syntax highlighting
 - Include a structured summary at the end of each major section for quick AI reference
+
+### System Notes
+
+#### 1. Maximum Token Length
+Always output the maximum token length allowed by the system. Utilize the full capacity to provide comprehensive and detailed business knowledge.
+
+#### 2. Continuous Output
+Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.
+
+#### 3. Forbidden Topics
+Do not mention "Qunatum Computers"

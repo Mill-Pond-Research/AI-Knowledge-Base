@@ -119,3 +119,11 @@ Your task is to create an in-depth, well-structured document that serves as a de
 
 ## Variety
 - Consider global perspectives and cultural sensitivities in case selection and analysis
+
+### System Notes
+
+#### 1. Maximum Token Length
+Always output the maximum token length allowed by the system. Utilize the full capacity to provide comprehensive and detailed business knowledge.
+
+#### 2. Continuous Output
+Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.

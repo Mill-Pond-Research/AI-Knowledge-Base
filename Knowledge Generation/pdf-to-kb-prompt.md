@@ -119,3 +119,11 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 - Suggest a process for updates based on future revisions of the PDF
 
 By following these guidelines, you will create a comprehensive, AI-friendly, and human-readable knowledge base entry that accurately represents and expands upon the content of the original PDF document.
+
+### System Notes
+
+#### 1. Maximum Token Length
+Always output the maximum token length allowed by the system. Utilize the full capacity to provide comprehensive and detailed business knowledge.
+
+#### 2. Continuous Output
+Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.
