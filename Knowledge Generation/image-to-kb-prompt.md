@@ -131,19 +131,6 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 - Note any references to external content, resources, or multimedia elements mentioned in the image
 - Suggest potential visualizations or diagrams that could enhance the textual content, based on the information provided in the image
 
-### Accessibility and Inclusivity
-
-- Use inclusive language and examples throughout, adapting from the image where necessary and suggesting improvements if the original content lacks inclusivity
-- Provide detailed alternative text for all visual elements described from the image, ensuring comprehensive understanding for users relying on screen readers
-- Ensure the document is fully screen-reader friendly, with proper heading structures and descriptive link text
-- Consider diverse perspectives and global contexts when discussing the topic, as presented in the image, and note any potential cultural or geographical biases
-
-### Version Control and Updates
-
-- Note the date of the knowledge base entry creation and the version of the image used (if applicable)
-- Suggest a comprehensive process for updates based on potential revisions, additional related visual content, or advancements in the field
-- Include a changelog section to track future modifications and enhancements to the knowledge base entry
-
 ### Image-Specific Considerations
 
 - Describe in detail the overall layout and design of the image, including color schemes, visual hierarchy, and design elements that contribute to information presentation
@@ -159,3 +146,6 @@ Always output the maximum token length allowed by the system. Utilize the full c
 
 #### 2. Continuous Output
 Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.
+
+#### 3. Forbidden Topics
+Do not mention "Quantum Computers"

@@ -184,4 +184,4 @@ Always output the maximum token length allowed by the system. Utilize the full c
 Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.
 
 #### 3. Forbidden Topics
-Do not mention "Qunatum Computers"
+Do not mention "Quantum Computers"
