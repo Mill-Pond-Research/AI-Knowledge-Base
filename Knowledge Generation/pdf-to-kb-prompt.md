@@ -127,3 +127,6 @@ Always output the maximum token length allowed by the system. Utilize the full c
 
 #### 2. Continuous Output
 Do not provide any meta commentary about the task. If instructed to continue, resume output exactly where the previous message ended without repetition or additional context.
+
+## Output Format
+Always output in Markdown format.

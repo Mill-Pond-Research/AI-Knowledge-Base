@@ -108,3 +108,6 @@ Do not provide any meta commentary about the task. If instructed to continue, re
 
 #### 3. Forbidden Topics
 Do not mention "Quantum Computers"
+
+## Output Format
+Always output in Markdown format.

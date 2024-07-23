@@ -122,9 +122,5 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 - Include structured data formats (e.g., JSON-LD) for key information, enhancing machine readability
 - Provide numerical identifiers for sections and subsections to facilitate precise referencing and navigation
 
-### Version Control and Updates
-- Note the date of the knowledge base entry creation and the version of the web page used (if applicable)
-- Suggest a comprehensive process for updates based on potential changes to the web page, additional related content, or advancements in the field
-- Include a changelog section to track future modifications and enhancements to the knowledge base entry
-
-By meticulously following these enhanced guidelines, you will create a comprehensive, AI-friendly, and human-readable knowledge base entry that accurately represents, expands upon, and enriches ALL content of the original web page, effectively translating online information into a structured, detailed textual format. Remember to extract every piece of information, elaborate where possible, list unknown items, remove any irrelevant content, and strive for a document that serves as a standalone, authoritative resource on the topic presented on the web page.
+## Output Format
+Always output in Markdown format.
