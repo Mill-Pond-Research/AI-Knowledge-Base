@@ -968,12 +968,6 @@ Threats:
 
 6. Warby Parker's Home Try-On Program
    - Innovation: Allowing customers to try glasses at home before purchasing
-   - Impact: Overcoming a major barrier in online ey
-
-Certainly, I'll continue with the comprehensive knowledge base document about the eCommerce industry, picking up where we left off in the Innovative Business Models section.
-
-<innovative_models>
-6. Warby Parker's Home Try-On Program (continued)
    - Impact: Overcoming a major barrier in online eyewear sales by replicating the in-store experience at home
    - Lesson: Innovative solutions to industry-specific challenges can create significant competitive advantages
 

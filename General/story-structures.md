@@ -1,5 +1,3 @@
-Certainly! I'll create a comprehensive knowledge base document based on the uploaded PDF "Storytelling Structures.pdf". This document will focus on various storytelling frameworks and their applications in business contexts.
-
 # Storytelling Structures: A Comprehensive Knowledge Base
 
 ## Table of Contents

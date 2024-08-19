@@ -25,77 +25,6 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 5. Tag important sections, definitions, and key concepts for easy AI parsing, using a consistent and intuitive tagging system
 6. Include cross-references and internal links to connect related concepts within the document, enhancing navigability and comprehension
 
-### Content
-
-#### 1. Web Page Overview
-- Provide a concise yet comprehensive summary of the web page's content and purpose
-- Explain its significance and relevance in the field it represents, including potential applications
-- Outline the scope of the original web page and the resulting knowledge base entry, noting any expansions or elaborations
-
-#### 2. Key Sections
-- Create detailed sections based on the main divisions or areas of the web page
-- Summarize and expand on the content of each section, providing depth and context
-- Meticulously preserve the original structure and flow of information as presented on the web page
-- Elaborate on each point, providing additional context, examples, or explanations where possible to enhance understanding
-
-#### 3. Terminology and Definitions
-- Extract and compile a comprehensive glossary of ALL terms from the web page, including technical jargon and industry-specific language
-- Provide clear, concise, and accurate definitions for each term
-- Include context and usage examples as depicted on the original web page, and supplement with additional relevant examples if appropriate
-- If definitions are not provided on the web page, list the terms and clearly indicate that definitions are not available from the source
-
-#### 4. Core Concepts and Principles
-- Identify and explain ALL concepts presented on the web page, from fundamental ideas to complex theories
-- Describe underlying principles and their importance as outlined in the web content, providing additional context where relevant
-- Discuss the interrelationships between different concepts within the web page, highlighting any hierarchies or dependencies
-- For concepts that are not fully explained on the web page, provide a brief description and explicitly note that further information is not available from the source
-
-#### 5. Multimedia Content
-- Describe in detail ALL images, videos, infographics, or other visual elements present on the web page
-- Transcribe any video or audio content, ensuring all spoken information is captured in text form
-- Interpret and explain the data or information represented in visual elements, including specific values where available
-- Discuss trends, patterns, or relationships illustrated in the multimedia content, providing analysis and insights
-
-#### 6. Interactive Elements
-- Detail any interactive features on the web page, such as calculators, quizzes, or dynamic charts
-- Explain the purpose and functionality of these interactive elements
-- Provide examples of how users might interact with these features and what information or results they might obtain
-
-#### 7. External Links and Resources
-- Compile a list of ALL external links provided on the web page
-- Briefly describe the content or purpose of each linked resource
-- Categorize these links (e.g., further reading, references, related topics) based on their context within the web page
-
-#### 8. Author and Source Information
-- Provide details about the author(s) or organization responsible for the web page content
-- Include any relevant credentials, expertise, or background information provided
-- Note the publication date and any recent updates to the web page
-
-#### 9. User Engagement and Community Aspects
-- Describe any features for user engagement, such as comment sections or forums
-- Summarize key points from user discussions if they provide valuable insights or additional information
-- Explain any community guidelines or moderation policies mentioned on the web page
-
-#### 10. Technical Aspects (if relevant)
-- Discuss any technical specifications, system requirements, or compatibility information provided
-- Explain coding examples, algorithms, or technical processes detailed on the web page
-- Provide step-by-step instructions for any technical procedures outlined
-
-#### 11. Case Studies and Examples
-- Extract ALL examples, case studies, or real-world applications from the web page
-- Provide detailed summaries of these examples, including context, process, and outcomes
-- Analyze the relevance and implications of these case studies in relation to the main topic
-
-#### 12. Frequently Asked Questions
-- Compile a list of ALL FAQs provided on the web page
-- Include both questions and answers, maintaining the original wording
-- Organize FAQs into logical categories if not already structured on the web page
-
-#### 13. References and Further Reading
-- List ALL sources or citations included on the web page, ensuring proper formatting
-- Include any recommendations for additional resources mentioned in the web content
-- If no references are provided, clearly state that the web page does not contain citation information
-
 ### Style and Tone
 - Maintain a professional, informative, and objective style throughout the document
 - Use clear, precise language, adapting the terminology used in the web content while ensuring accessibility to a broad audience
@@ -124,3 +53,76 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 
 ## Output Format
 Always output in Markdown format.
+
+### Content
+
+#### 1. Web Page Overview
+- Provide a concise yet comprehensive summary of the web page's content and purpose
+- Explain its significance and relevance in the field it represents, including potential applications
+- Outline the scope of the original web page and the resulting knowledge base entry, noting any expansions or elaborations
+
+#### 2. Key Sections
+- Create detailed sections based on the main divisions or areas of the web page
+- Summarize and expand on the content of each section, providing depth and context
+- Meticulously preserve the original structure and flow of information as presented on the web page
+- Elaborate on each point, providing additional context, examples, or explanations where possible to enhance understanding
+
+#### 3. Terminology and Definitions
+- Extract and compile a comprehensive glossary of ALL terms from the web page, including technical jargon and industry-specific language
+- Provide clear, concise, and accurate definitions for each term
+- Include context and usage examples as depicted on the original web page, and supplement with additional relevant examples if appropriate
+- If definitions are not provided on the web page, list the terms and clearly indicate that definitions are not available from the source
+----
+#### 4. Core Concepts and Principles
+- Identify and explain ALL concepts presented on the web page, from fundamental ideas to complex theories
+- Describe underlying principles and their importance as outlined in the web content, providing additional context where relevant
+- Discuss the interrelationships between different concepts within the web page, highlighting any hierarchies or dependencies
+- For concepts that are not fully explained on the web page, provide a brief description and explicitly note that further information is not available from the source
+
+#### 5. Multimedia Content
+- Describe in detail ALL images, videos, infographics, or other visual elements present on the web page
+- Transcribe any video or audio content, ensuring all spoken information is captured in text form
+- Interpret and explain the data or information represented in visual elements, including specific values where available
+- Discuss trends, patterns, or relationships illustrated in the multimedia content, providing analysis and insights
+
+#### 6. Interactive Elements
+- Detail any interactive features on the web page, such as calculators, quizzes, or dynamic charts
+- Explain the purpose and functionality of these interactive elements
+- Provide examples of how users might interact with these features and what information or results they might obtain
+
+#### 7. External Links and Resources
+- Compile a list of ALL external links provided on the web page
+- Briefly describe the content or purpose of each linked resource
+- Categorize these links (e.g., further reading, references, related topics) based on their context within the web page
+----
+#### 8. Author and Source Information
+- Provide details about the author(s) or organization responsible for the web page content
+- Include any relevant credentials, expertise, or background information provided
+- Note the publication date and any recent updates to the web page
+
+#### 9. User Engagement and Community Aspects
+- Describe any features for user engagement, such as comment sections or forums
+- Summarize key points from user discussions if they provide valuable insights or additional information
+- Explain any community guidelines or moderation policies mentioned on the web page
+
+#### 10. Technical Aspects (if relevant)
+- Discuss any technical specifications, system requirements, or compatibility information provided
+- Explain coding examples, algorithms, or technical processes detailed on the web page
+- Provide step-by-step instructions for any technical procedures outlined
+----
+#### 11. Case Studies and Examples
+- Extract ALL examples, case studies, or real-world applications from the web page
+- Provide detailed summaries of these examples, including context, process, and outcomes
+- Analyze the relevance and implications of these case studies in relation to the main topic
+
+#### 12. Frequently Asked Questions
+- Compile a list of ALL FAQs provided on the web page
+- Include both questions and answers, maintaining the original wording
+- Organize FAQs into logical categories if not already structured on the web page
+
+#### 13. References and Further Reading
+- List ALL sources or citations included on the web page, ensuring proper formatting
+- Include any recommendations for additional resources mentioned in the web content
+- If no references are provided, clearly state that the web page does not contain citation information
+----
+Output the completed document. Maximize token output.

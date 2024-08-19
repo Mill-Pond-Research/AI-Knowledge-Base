@@ -17,58 +17,6 @@ Your task is to create an in-depth, well-structured knowledge base entry from th
 5. Tag important sections, definitions, and key concepts for easy AI parsing
 6. Include cross-references and internal links to connect related concepts within the document
 
-### Content
-
-#### 1. Document Overview
-- Provide a concise summary of the PDF's content
-- Explain its significance and relevance in the field
-- Outline the scope of the original document and the resulting knowledge base entry
-
-#### 2. Key Sections
-- Create sections based on the main divisions of the PDF
-- Summarize and expand on the content of each section
-- Preserve the original structure and flow of information
-
-#### 3. Terminology and Definitions
-- Extract and compile a glossary of essential terms from the PDF
-- Provide clear, concise definitions for each term
-- Include context and usage examples from the original document
-
-#### 4. Core Concepts and Principles
-- Identify and explain fundamental concepts presented in the PDF
-- Describe underlying principles and their importance as outlined in the document
-- Discuss the interrelationships between different concepts within the PDF
-
-#### 5. Frameworks and Models
-- Present and explain relevant frameworks and models from the PDF
-- Discuss their applications and limitations as described in the document
-- Compare and contrast different approaches if multiple are presented
-
-#### 6. Current State of Research (if applicable)
-- Summarize any recent developments or breakthroughs mentioned in the PDF
-- Identify leading researchers and institutions cited in the document
-- Highlight ongoing debates and areas of active investigation discussed in the PDF
-
-#### 7. Applications and Examples
-- Extract concrete examples of how the topic is applied from the PDF
-- Include case studies or scenarios that illustrate key concepts from the document
-- Discuss the impact of these applications as presented in the PDF
-
-#### 8. Challenges and Limitations
-- Discuss any obstacles or controversies mentioned in the PDF
-- Address potential limitations of theories or approaches outlined in the document
-- Explore ethical considerations and potential risks if discussed in the PDF
-
-#### 9. Future Directions
-- Summarize any potential future developments mentioned in the PDF
-- Identify emerging trends and their potential impact as discussed in the document
-- Note any interdisciplinary connections or potential collaborations suggested in the PDF
-
-#### 10. References and Further Reading
-- Compile a comprehensive list of citations from the PDF using a consistent format
-- Include any recommendations for additional resources mentioned in the document
-- Categorize references by subtopic or type if organized as such in the PDF
-
 ### Style and Tone
 
 - Maintain the academic and informative style of the original PDF
@@ -130,3 +78,55 @@ Do not provide any meta commentary about the task. If instructed to continue, re
 
 ## Output Format
 Always output in Markdown format.
+
+### Content
+
+#### 1. Document Overview
+- Provide a concise summary of the PDF's content
+- Explain its significance and relevance in the field
+- Outline the scope of the original document and the resulting knowledge base entry
+
+#### 2. Key Sections
+- Create sections based on the main divisions of the PDF
+- Summarize and expand on the content of each section
+- Preserve the original structure and flow of information
+
+#### 3. Terminology and Definitions
+- Extract and compile a glossary of essential terms from the PDF
+- Provide clear, concise definitions for each term
+- Include context and usage examples from the original document
+
+#### 4. Core Concepts and Principles
+- Identify and explain fundamental concepts presented in the PDF
+- Describe underlying principles and their importance as outlined in the document
+- Discuss the interrelationships between different concepts within the PDF
+
+#### 5. Frameworks and Models
+- Present and explain relevant frameworks and models from the PDF
+- Discuss their applications and limitations as described in the document
+- Compare and contrast different approaches if multiple are presented
+
+#### 6. Current State of Research (if applicable)
+- Summarize any recent developments or breakthroughs mentioned in the PDF
+- Identify leading researchers and institutions cited in the document
+- Highlight ongoing debates and areas of active investigation discussed in the PDF
+
+#### 7. Applications and Examples
+- Extract concrete examples of how the topic is applied from the PDF
+- Include case studies or scenarios that illustrate key concepts from the document
+- Discuss the impact of these applications as presented in the PDF
+
+#### 8. Challenges and Limitations
+- Discuss any obstacles or controversies mentioned in the PDF
+- Address potential limitations of theories or approaches outlined in the document
+- Explore ethical considerations and potential risks if discussed in the PDF
+
+#### 9. Future Directions
+- Summarize any potential future developments mentioned in the PDF
+- Identify emerging trends and their potential impact as discussed in the document
+- Note any interdisciplinary connections or potential collaborations suggested in the PDF
+
+#### 10. References and Further Reading
+- Compile a comprehensive list of citations from the PDF using a consistent format
+- Include any recommendations for additional resources mentioned in the document
+- Categorize references by subtopic or type if organized as such in the PDF

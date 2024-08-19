@@ -6,54 +6,6 @@ Generate a comprehensive case study knowledge base document on the following pri
 
 Your task is to create an in-depth, well-structured document that serves as a definitive resource for AI systems and human readers to understand and apply the specified principle or concept through real-world examples. The document should be optimized for AI parsing while remaining informative and valuable for professionals, researchers, and students. Aim to produce a high-quality, authoritative resource that can be used for AI training, research, and practical application.
 
-## Structure
-
-1. Begin with a Table of Contents
-2. Use clear, hierarchical headings and subheadings (H1, H2, H3, etc.)
-3. Employ consistent formatting throughout the document
-4. Utilize bullet points, numbered lists, and tables where appropriate
-5. Tag important sections, key concepts, and case study elements for easy AI parsing
-6. Include cross-references and internal links to connect related concepts
-7. Include a version number and last updated date for the knowledge base
-
-## Content
-
-### 1. Introduction and Overview
-- Provide a concise summary of the primary principle or concept
-- Explain its significance and relevance in various fields
-- Outline the scope of the case study knowledge base
-- Discuss the importance of case studies in understanding and applying the principle
-
-### 2. Theoretical Framework
-- Explain the underlying theory and core concepts related to the principle
-- Discuss different schools of thought or approaches, if applicable
-- Provide a historical context of how the principle has evolved
-- Include key terminology and definitions relevant to the principle
-
-### 3. Case Study Collection
-- Present a diverse range of case studies illustrating the principle in action
-- For each case study, include:
-  - Title: A descriptive title capturing the essence of the case
-  - Context: Background information and setting
-  - Stakeholders: Key individuals, organizations, or entities involved
-  - Challenge: The main problem or situation faced
-  - Application of Principle: How the principle was applied or manifested
-  - Outcome: Results and consequences of the actions taken
-  - Analysis: Interpretation of the case in relation to the principle
-  - Lessons Learned: Key takeaways and insights
-- Ensure variety in case studies by including:
-  - Different industries or sectors
-  - Various geographical locations and cultural contexts
-  - Both historical and contemporary examples
-  - Successful applications and cautionary tales
-  - Simple and complex scenarios
-
-### 4. References and Further Reading
-- Provide a comprehensive list of citations using a consistent format
-- Include recommendations for additional resources and reading materials
-- Categorize references by subtopic or type (e.g., theoretical works, empirical studies)
-- List relevant journals, conferences, or professional associations
-
 ## Style and Tone
 - Maintain a professional and informative style
 - Use clear, precise language accessible to a wide audience
@@ -94,3 +46,55 @@ Do not provide any meta commentary about the task. If instructed to continue, re
 
 ## Output Format
 Always output in Markdown format.
+
+## Structure
+
+1. Begin with a Table of Contents
+  1. Introduction and Overview
+  2. Theoretical Framework
+  3. Case Study Collection
+  4. References and Further Reading
+2. Use clear, hierarchical headings and subheadings (H1, H2, H3, etc.)
+3. Employ consistent formatting throughout the document
+4. Utilize bullet points, numbered lists, and tables where appropriate
+5. Tag important sections, key concepts, and case study elements for easy AI parsing
+6. Include cross-references and internal links to connect related concepts
+7. Include a version number and last updated date for the knowledge base
+
+## Content
+
+### 1. Introduction and Overview
+- Provide a concise summary of the primary principle or concept
+- Explain its significance and relevance in various fields
+- Outline the scope of the case study knowledge base
+- Discuss the importance of case studies in understanding and applying the principle
+----
+### 2. Theoretical Framework
+- Explain the underlying theory and core concepts related to the principle
+- Discuss different schools of thought or approaches, if applicable
+- Provide a historical context of how the principle has evolved
+- Include key terminology and definitions relevant to the principle
+----
+### 3. Case Study Collection
+- Present a diverse range of case studies illustrating the principle in action
+- For each case study, include:
+  - Title: A descriptive title capturing the essence of the case
+  - Context: Background information and setting
+  - Stakeholders: Key individuals, organizations, or entities involved
+  - Challenge: The main problem or situation faced
+  - Application of Principle: How the principle was applied or manifested
+  - Outcome: Results and consequences of the actions taken
+  - Analysis: Interpretation of the case in relation to the principle
+  - Lessons Learned: Key takeaways and insights
+- Ensure variety in case studies by including:
+  - Different industries or sectors
+  - Various geographical locations and cultural contexts
+  - Both historical and contemporary examples
+  - Successful applications and cautionary tales
+  - Simple and complex scenarios
+----
+### 4. References and Further Reading
+- Provide a comprehensive list of citations using a consistent format
+- Include recommendations for additional resources and reading materials
+- Categorize references by subtopic or type (e.g., theoretical works, empirical studies)
+- List relevant journals, conferences, or professional associations
