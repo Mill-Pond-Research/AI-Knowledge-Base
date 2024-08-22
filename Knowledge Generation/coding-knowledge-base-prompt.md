@@ -55,6 +55,28 @@ Always output in Markdown format.
 5. Tag important sections, syntax elements, and key concepts for easy AI parsing
 6. Include a version number and last updated date for the knowledge base
 
+## Table of Contents
+    1. Introduction and Overview
+    2. Setup and Environment
+    3. Syntax and Core Concepts
+    4. Control Structures and Flow
+    5. Functions and Methods
+    6. Data Structures
+    7. Object-Oriented Programming (if applicable)
+    8. Modules and Packages
+    9. Standard Library
+    10. File I/O and System Interaction
+    11. Concurrency and Parallelism (if applicable)
+    12. Memory Management (if applicable)
+    13. Error Handling and Debugging
+    14. Testing and Quality Assurance
+    15. Performance Optimization
+    16. Security Best Practices
+    17. Interoperability with Other Languages/Systems
+    18. Advanced Topics
+    19. Community and Ecosystem
+    20. References and Further Reading
+
 ## Content
 
 ### 1. Introduction and Overview

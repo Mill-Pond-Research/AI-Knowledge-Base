@@ -52,6 +52,24 @@ Always output in Markdown format.
 ### Structure
 
 - Begin with a Table of Contents
+    1. Introduction and Company Overview
+    2. Historical Context and Evolution
+    3. Core Business Model and Value Proposition
+    4. Ecosystem Components and Structure
+    5. Comprehensive Product and Service Catalog
+    6. Key Technologies and Platforms
+    7. Partner and Developer Ecosystem
+    8. Customer Segments and Use Cases
+    9. Competitive Landscape and Market Position
+    10. Financial Performance and Business Metrics
+    11. Innovation and Research & Development
+    12. Regulatory Environment and Compliance
+    13. Corporate Social Responsibility and Sustainability
+    14. Challenges and Limitations
+    15. Future Directions and Growth Strategies
+    16. Case Studies and Success Stories
+    17. Glossary of Key Terms
+    18. References and Further Reading
 - Use clear, hierarchical headings and subheadings (H1, H2, H3, etc.)
 - Employ consistent formatting throughout the document
 - Utilize bullet points, numbered lists, and tables where appropriate
