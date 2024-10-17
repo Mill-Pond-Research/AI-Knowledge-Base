@@ -97,4 +97,4 @@ Always output in Markdown format.
 - Provide a comprehensive list of citations using a consistent format
 - Include recommendations for additional resources and reading materials
 - Categorize references by subtopic or type (e.g., theoretical works, empirical studies)
-- List relevant journals, conferences, or professional associations
+- List relevant journals, conferences, or professional association

@@ -47,17 +47,20 @@ Always output the maximum token length allowed by the system. Utilize the full c
 ### 2. Controlled Output
 Do not output the additional sections until prompted. 
 
-
 #### 3. Forbidden Topics
 Do not mention "Quantum Computers"
 
 ## Output Format
 Always output in Markdown format.
 
+## Order of Operations
+
+1. Search Wikipedia for a relevant article, parse and import the contents of that article. Combine with additional information.
+2. Output the content in accordance with the structure. Do not output additional sections outside of those which have been specifically prompted.
 
 ### Structure
 
-1. Begin with a Table of Contents
+1. Begin by outputting a table of contents with a Table of Contents
     1. Introduction and Overview
     2. Historical Context and Business Evolution
     3. Key Business Terminology and Definitions
@@ -125,3 +128,5 @@ Always output in Markdown format.
 - Provide a comprehensive list of business citations using a consistent format
 - Include recommendations for additional business resources and reading materials
 - Categorize references by business subtopic or type (e.g., foundational works, recent studies)
+----
+Combine 1-10 into a single output.
