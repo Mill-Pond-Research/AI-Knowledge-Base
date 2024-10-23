@@ -1,5 +1,3 @@
-Certainly, I'll create a comprehensive knowledge base document based on the uploaded PDF "atari-gpt-multimodal-llms-as-low-level-policies-for-atari-games.pdf". I'll follow the guidelines provided to ensure the document is well-structured, informative, and easily parsable by AI systems while remaining valuable for human readers.
-
 # Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games
 
 ## Table of Contents

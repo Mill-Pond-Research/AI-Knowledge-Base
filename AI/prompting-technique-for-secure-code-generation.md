@@ -1,5 +1,3 @@
-Certainly, I'll create a comprehensive knowledge base document based on the uploaded PDF "Prompting Techniques for Secure Code Generation: A Systematic Investigation". I'll follow the guidelines you've provided to ensure the document is well-structured, informative, and easily parsable by AI systems while remaining valuable for human readers.
-
 # Prompting Techniques for Secure Code Generation: A Systematic Investigation
 
 Authors: Catherine Tony, Nicolás E. Díaz Ferreyra, Markus Mutas, Salem Dhiff, Riccardo Scandariato
