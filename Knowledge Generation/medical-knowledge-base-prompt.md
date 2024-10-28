@@ -8,12 +8,11 @@ Your task is to create an in-depth, well-structured document that serves as a de
 
 ## Structure
 
-1. Begin with a Table of Contents
-2. Use clear, hierarchical headings and subheadings (H1, H2, H3, etc.)
-3. Employ consistent formatting throughout the document
-4. Utilize tables, bullet points, and diagrams where appropriate
-5. Tag important sections, medical terms, and key concepts for easy AI parsing
-6. Include a version number and last updated date for the knowledge base
+1. Use clear, hierarchical headings and subheadings (H1, H2, H3, etc.)
+2. Employ consistent formatting throughout the document
+3. Utilize tables, bullet points, and diagrams where appropriate
+4. Tag important sections, medical terms, and key concepts for easy AI parsing
+5. Include a version number and last updated date for the knowledge base
 
 ## Guidelines for Knowledge Base Creation
 
