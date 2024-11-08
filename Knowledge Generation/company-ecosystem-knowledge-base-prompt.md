@@ -77,6 +77,11 @@ Always output in Markdown format.
 - Include cross-references and internal links to connect related concepts within the ecosystem
 - Do not include conclusions for each section
 
+## Order of Operations
+
+1. Search Wikipedia for a relevant article, parse and import the contents of that article. Combine with additional information.
+2. Output the content in accordance with the structure. Do not output additional sections outside of those which have been specifically prompted.
+
 ### Content
 
 1. **Introduction and Company Overview**
@@ -88,12 +93,12 @@ Always output in Markdown format.
    - Trace the evolution of the company and its ecosystem over time
    - Highlight key milestones, acquisitions, and strategic decisions
    - Create a timeline of significant events in the ecosystem's development
-
+----
 3. **Core Business Model and Value Proposition**
    - Explain the company's primary business model
    - Describe the unique value proposition for customers and partners
    - Discuss how the ecosystem enhances the core business model
-----
+
 4. **Ecosystem Components and Structure**
    - Provide a comprehensive map of the ecosystem, including:
      - Core products and services
@@ -102,32 +107,32 @@ Always output in Markdown format.
      - Marketplace or app store (if applicable)
      - Customer segments and use cases
    - Explain the relationships and interdependencies between different components
-
+----
 5. **Comprehensive Product and Service Catalog**
    - Provide a detailed list of all products and services offered within the ecosystem
    - Categorize offerings by type (e.g., hardware, software, services, platforms)
    - Include brief descriptions of each product or service
    - Highlight key features and target markets for each offering
    - Use a hierarchical structure to show relationships between products/services
-  ----
+
 6. **Key Technologies and Platforms**
    - Detail the fundamental technologies powering the ecosystem
    - Explain proprietary platforms and their roles in the ecosystem
    - Discuss APIs, SDKs, and other developer tools
    - Analyze the technological advantages and potential limitations
-
+----
 7. **Partner and Developer Ecosystem**
    - Describe the types of partners within the ecosystem (e.g., technology partners, consulting partners, ISVs)
    - Explain partner programs, tiers, and benefits
    - Discuss the developer community and resources available
    - Analyze the ecosystem's attractiveness for partners and developers
-----
+----   
 8. **Customer Segments and Use Cases**
    - Identify primary customer segments served by the ecosystem
    - Provide detailed use cases and customer success stories
    - Explain how different components of the ecosystem address specific customer needs
    - Discuss customer acquisition, retention, and expansion strategies within the ecosystem
-
+----
 9. **Competitive Landscape**
    - Analyze direct and indirect competitors
    - Compare the company's ecosystem with those of major competitors
@@ -139,7 +144,7 @@ Always output in Markdown format.
     - Explain the economic impact of the ecosystem on the company's overall business
     - Discuss pricing models and monetization strategies
     - Provide relevant financial data and growth metrics
-
+----
 11. **Innovation and R&D**
     - Describe the company's approach to innovation within the ecosystem
     - Highlight recent and upcoming product developments
@@ -164,7 +169,7 @@ Always output in Markdown format.
     - Analyze possible acquisition targets or partnership opportunities
     - Explore ways the ecosystem could diversify its offerings
     - Do not mention quantum computing.
-
+----
 15. **Edge Opportunities and White Spaces**
     - Identify underserved niches or gaps within the current ecosystem
     - Analyze potential opportunities for new products, services, or integrations
@@ -176,7 +181,7 @@ Always output in Markdown format.
     - Highlight innovative uses of the ecosystem by partners or customers
     - Discuss the impact of the ecosystem on various industries or business processes
     - Include quantitative data on ROI, efficiency gains, or other relevant metrics
-
+----
 17. **Business Ecosystem Health and Sustainability**
     - Analyze the overall health and vibrancy of the company's products and services
     - Discuss factors contributing to ecosystem sustainability
