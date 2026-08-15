@@ -209,12 +209,14 @@ The 2026 OWASP Top 10 drew on:
 
 | Metric | Value |
 |--------|-------|
-| Total documented incidents analyzed | 2,000+ |
-| Largest source of incident data | Bug bounty programs |
+| Total documented incidents analyzed | 6,639 |
+| Incident data date range | Through mid-August 2026 (Black Hat season) |
+| Largest source of incident data | Bug bounty programs + production deployments |
 | Category with highest incident growth | Supply Chain Vulnerabilities |
 | Category most overestimated by experts | Overreliance |
 | Category most underestimated by experts | Sensitive Information Disclosure |
 | Primary attack vector | Prompt injection (direct and indirect) |
+| Key finding from expanded data | Real-world breach patterns overrule expert assumptions about misinformation risk prevalence |
 
 ### Black Hat 2026 Context
 
@@ -253,7 +255,7 @@ The 2026 OWASP LLM Top 10 represents the first edition to move from primarily ex
 | **Methodology** | Expert consensus | Mixed (expert + early data) | Data-driven |
 | **Ranking basis** | Theoretical risk | Expert judgment | Incident frequency |
 | **Categories** | 10 | 10 (refined) | 10 (reordered) |
-| **Incident data** | None | Limited | 2,000+ incidents |
+| **Incident data** | None | Limited | 6,639 incidents (data-driven) |
 | **Mitigation guidance** | Generic | Framework-specific | Agent-specific guidance |
 | **Agent coverage** | Minimal | Emerging | Extensive |
 
