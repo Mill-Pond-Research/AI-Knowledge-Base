@@ -175,6 +175,48 @@ The company's "safety-first" brand is simultaneously its strongest differentiato
 
 ---
 
+## IPO Trajectory (August 2026)
+
+Anthropic's IPO preparations accelerated in mid-August 2026, with the company signaling it could become one of the largest technology IPOs in history:
+
+| Aspect | Description |
+|--------|-------------|
+| **CFO Engagement** | Krishna Rao began early investor meetings in August 2026 |
+| **2028 Revenue Projection** | Wall Street prices Anthropic at ~$190B–$200B in projected 2028 revenue |
+| **Q2 2026 Revenue** | **$11.5B+** — up 14.6× from $787M in Q2 2025 |
+| **Revenue Run Rate (May 2026)** | ~$47B annualized |
+| **Growth Rate** | 14.6× year-over-year revenue growth |
+| **Market Sentiment** | Described as a potential record-breaking IPO |
+
+### Revenue Growth Trajectory
+
+| Period | Revenue | Growth |
+|--------|---------|--------|
+| Q2 2025 | $787M | Baseline |
+| Q2 2026 | $11.5B+ | **14.6× YoY** |
+| May 2026 Run Rate | ~$47B annualized | Implied continuation |
+
+### Strategic Context
+
+The IPO comes at a pivotal moment for Anthropic:
+
+1. **Revenue validation**: The $11.5B+ Q2 figure demonstrates that enterprise AI adoption is generating real, large-scale revenue — validating the business model beyond investor hype.
+
+2. **Pricing pressure**: Despite the revenue growth, Anthropic faces pricing pressure from SpaceXAI (Grok 4.6 at $6/M output vs Sonnet 5's $10/M output) and DeepSeek's aggressive pricing, which could compress margins.
+
+3. **Security narrative**: The IPO proceeds alongside the Fable/Mythos ban and the broader August 2026 security crisis, giving investors both a growth story and a risk factor to evaluate.
+
+4. **Competitive landscape**: The IPO valuation must be assessed against OpenAI's planned IPO and SpaceXAI's public market performance, creating a three-way race for public AI investment capital.
+
+5. **Timing uncertainty**: Whether Anthropic will IPO before or after OpenAI remains unclear, and the relative timing could significantly affect each company's valuation depending on market appetite for AI equity.
+
+### Sources
+
+- [Reuters: Anthropic IPO Valuation Hinges on $190-200 Billion 2028 Revenue Forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
+- [Bloomberg: Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter](https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter)
+
+---
+
 ## References and Further Reading
 
 - [Anthropic: Disrupting the First AI Cyber Espionage Campaign](https://anthropic.com/news/disrupting-first-ai-cyber-espionage-campaign)

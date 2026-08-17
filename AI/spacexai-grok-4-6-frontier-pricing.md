@@ -79,7 +79,7 @@ Grok 4.6's pricing undercuts both Anthropic and OpenAI on every dimension. The i
 SpaceXAI is the AI division of SpaceX, founded by Elon Musk. Key context for the Grok 4.6 launch:
 
 - **IPO**: SpaceXAI went public in 2025-2026, giving it access to public market capital
-- **Cursor acquisition**: Acquired AI coding startup Cursor, integrating its code generation capabilities
+- **Cursor acquisition**: Completed $60B acquisition of AI coding startup Cursor (August 2026) — the largest AI M&A deal to date, integrating its code generation capabilities into the SpaceXAI ecosystem
 - **Previous releases**: Grok 4.5 (July 2026) was the first major post-IPO release, priced dramatically below Anthropic and OpenAI
 - **Pricing strategy**: Consistently aggressive — undercutting established labs on price while claiming competitive capability
 
