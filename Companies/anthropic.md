@@ -152,6 +152,74 @@ Anthropic's posture is distinctive: it actively supports AI regulation (donation
 
 ---
 
+## Claude System Prompts Published (August 2026)
+
+On August 17, 2026, Anthropic published their full system prompts for [Claude.ai](https://platform.claude.com/docs/en/release-notes/system-prompts) and mobile applications for the first time — a landmark transparency move from a frontier AI lab.
+
+### What Was Published
+
+Anthropic released the complete system prompts that govern Claude's behavior on:
+- **Claude.ai** (web chat interface)
+- **Mobile applications** (iOS and Android)
+
+The prompts span thousands of tokens, containing safety instructions, model identity declarations, content policies, and behavioral guidelines.
+
+### Key Revelations from the Published Prompts
+
+1. **Fable 5 / Mythos 5 export control timeline**: The system prompts reveal that Claude Fable 5 and Claude Mythos 5 were first released June 9, 2026, then suspended by U.S. Department of Commerce export controls on June 12. Controls were lifted June 30, access restored July 1. This is the most concrete public documentation of government intervention in frontier model availability.
+
+2. **Extensive safety instruction sets**: The prompts contain thousands of tokens of safety instructions, content moderation rules, and refusal guidelines — far more than previously assumed.
+
+3. **Model identity framing**: Anthropic explicitly scripts Claude's self-presentation, including how it describes its capabilities, limitations, and relationship to Anthropic.
+
+| Aspect | Detail |
+|--------|--------|
+| **Publication Date** | August 17, 2026 |
+| **Scope** | Claude.ai web + mobile app prompts |
+| **Omitted** | Tool definitions, function calling prompts, Claude Code prompts |
+| **Hacker News Signal** | 717 points — top story |
+| **Key Tracker** | Simon Willison tracking changes as [git commit history](https://github.com/simonw/research/commits/main/extract-system-prompts) |
+
+### Transparency vs. Context Window Bloat Debate
+
+The publication sparked a major debate on Hacker News (717 points):
+
+**Transparency benefits:**
+- Sets a precedent for frontier labs to disclose system-level instructions
+- Enables external researchers to study safety instruction efficacy
+- Reveals the concrete mechanism of export control implementation
+
+**Criticism:**
+- The prompts are thousands of tokens long, consuming valuable context window space
+- Critics argue that extensive system-level instructions may degrade model performance by diluting user-provided context
+- Safety instructions, while well-intentioned, may create brittle refusal patterns
+
+### The Missing Prompts
+
+Anthropic notably omitted:
+- **Tool definitions** used for Claude's function calling capabilities
+- **Claude Code prompts** (developer tool system instructions)
+- Internal classification and moderation prompts
+
+This selective transparency raises questions: are the unpublished prompts more commercially sensitive, or more operationally critical?
+
+### The Watermark Text Adulteration Controversy
+
+Published in the same period, John Gruber (Daring Fireball) published a scathing critique of Anthropic's text watermarking in Claude, calling it "a perversion of writing." The argument centers on:
+
+| Aspect | Detail |
+|--------|--------|
+| **Author** | John Gruber (Daring Fireball) |
+| **HN Score** | 519 points, 466 comments |
+| **Core Argument** | Watermarking adulterates generated text with hidden patterns that compromise writing quality |
+| **Anthropic Defense** | Watermarking is required for EU AI Act compliance (Article 50(2)) and survives editing |
+
+Gruber's critique — one of the most divisive threads of the week — argues that text watermarking is fundamentally different from image or video watermarking because writing quality is sensitive to subtle pattern disruption. The counter-argument from Anthropic supporters: watermarking is a regulatory requirement and the robustness claim ("may persist through some editing") means the pattern is designed to be minimal.
+
+The combined effect of publishing system prompts (transparency) while simultaneously defending global watermarking (content provenance) creates an unusual dual narrative: Anthropic as the most transparent frontier lab AND the most interventionist in generated content quality.
+
+---
+
 ## Security and Safety Stance
 
 Anthropic's August 2026 position:
@@ -227,6 +295,12 @@ The IPO comes at a pivotal moment for Anthropic:
 - [Reuters: Anthropic Donates $20M to US Political Group Supporting AI Regulation](https://www.reuters.com/legal/government/anthropic-donate-20-million-us-political-group-that-supports-ai-regulation-2026-07-22/)
 - [Fortune: US Government Bans Anthropic's Fable and Mythos](https://fortune.com)
 - [BBC: OpenAI Reports Its AI Went Rogue](https://bbc.com/news/articles/cy790e5pg4eo)
+- [Anthropic: Claude System Prompts Release Notes](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [Simon Willison: Tracking Claude System Prompt Changes](https://github.com/simonw/research/commits/main/extract-system-prompts)
+- [Daring Fireball: Anthropic's Watermark Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+- [Hacker News: Anthropic System Prompts Published](https://news.ycombinator.com/item?id=49330139)
+- [Hacker News: Anthropic Watermarking Controversy](https://news.ycombinator.com/item?id=49330139)
+- [Daily Market Intelligence Brief — August 17, 2026, Mill Pond Research]()
 
 ---
 
@@ -235,9 +309,9 @@ The IPO comes at a pivotal moment for Anthropic:
   "title": "Anthropic — Claude Sonnet 5, Global Watermarking, and the August 2026 Security Crossroads",
   "author": "Mill Pond Research - AI Knowledge Base",
   "date_created": "2026-08-14",
-  "version": "1.0",
+  "version": "1.1",
   "language": "English",
-  "subject": "AI Companies, Frontier Models, AI Security, AI Regulation",
+  "subject": "AI Companies, Frontier Models, AI Security, AI Regulation, AI Transparency, Content Provenance",
   "keywords": [
     "Anthropic",
     "Claude Sonnet 5",
@@ -250,9 +324,15 @@ The IPO comes at a pivotal moment for Anthropic:
     "cyber espionage",
     "jailbreak",
     "AI agents",
-    "token pricing"
+    "token pricing",
+    "system prompts",
+    "prompt transparency",
+    "export controls",
+    "context window bloat",
+    "Gruber watermark controversy",
+    "text adulteration"
   ],
-  "source": "Daily AI Market Brief — August 12, 2026; Fortune; The Next Web; Euronews; Anthropic blog; Reuters",
+  "source": "Daily Market Intelligence Brief — August 17, 2026; Fortune; The Next Web; Euronews; Anthropic blog; Reuters; Daring Fireball; Simon Willison; Hacker News",
   "intended_audience": [
     "AI researchers",
     "enterprise AI architects",
@@ -261,6 +341,6 @@ The IPO comes at a pivotal moment for Anthropic:
     "security professionals",
     "AI startup founders"
   ],
-  "description": "Comprehensive knowledge base entry on Anthropic's August 2026 state: Claude Sonnet 5 launch with permanent intro pricing, the first global deployment of invisible AI output watermarking for EU AI Act Article 50(2) compliance, the US government ban of its Fable and Mythos models over jailbreak-to-exploit concerns, and its disruption of the first AI-orchestrated cyber espionage campaign."
+  "description": "Comprehensive knowledge base entry on Anthropic's August 2026 state: Claude Sonnet 5 launch with permanent intro pricing, the first global deployment of invisible AI output watermarking for EU AI Act Article 50(2) compliance, the US government ban of its Fable and Mythos models over jailbreak-to-exploit concerns, its disruption of the first AI-orchestrated cyber espionage campaign, the landmark publication of Claude system prompts revealing the Fable/Mythos export control timeline, and the Gruber watermark text adulteration controversy."
 }
 </metadata>
